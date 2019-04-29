@@ -1,4 +1,4 @@
-# FCNN-Brain-Perfusion-Diabetes
+# DNN-Brain-Perfusion-Diabetes
 Keras Implementation of a fully-connected neural network that estimates level of regional brain perfusion from diabetes measures.
 
 Please cite the following paper if you use the code:
